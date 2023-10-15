@@ -5,7 +5,7 @@
 }
 
 .content {
-    padding-top: 25%;
+    padding-top: 20%;
 }
 
 .section-name {
@@ -45,4 +45,32 @@ li:hover {
     margin: 0 auto 2em auto;
     padding: 2em;
     background-color: #242424;
+}
+
+.box{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+
+.text{
+    margin: 5%;
+}
+
+.picture-text{
+    padding: 20px;
+    margin: 100px auto;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+table{
+    margin: 100px auto;
+}
+
+tr, td{
+    padding: 30px;
 }

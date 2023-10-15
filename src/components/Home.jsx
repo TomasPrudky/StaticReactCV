@@ -3,10 +3,10 @@ import './css/components.css'
 function Home() {
 
     return (
-        <div className='container'>
+        <div className='container' style={{backgroundColor: '#181818'}}>
             <div className='content'>
                 <div className='section-name'>
-                    [Hello World!]
+                    Hello World!
                 </div>
                 <div>
                     <div>Ing. Tomas Prudky</div>
