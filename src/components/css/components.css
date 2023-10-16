@@ -1,5 +1,4 @@
 .container{
-    font-family: "Lucida Console", "Courier New", monospace;
     font-size: 1em;
     height: 100vh;
 }
@@ -26,7 +25,6 @@ ul {
 
 li {
     display: inline;
-    font-family: "Lucida Console", "Courier New", monospace;
     padding: 1em;
 }
 
@@ -73,4 +71,9 @@ table{
 
 tr, td{
     padding: 30px;
+}
+
+*{
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: white;
 }
